@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'mi_widget.dart'; // Asegúrate de importar correctamente
+import 'mi-widget.dart'; // Asegúrate de importar correctamente
 
 void main() {
   runApp(MyApp());
